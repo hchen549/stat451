@@ -38,3 +38,10 @@ def plot_learning_curve(estimator, title, X, y, ylim=None, cv=None,
     ax.set_ylabel("Exaplined Variance", fontsize = 16)
     
 ```
+
+### Use example
+
+```
+plot_learning_curve(lasso, "Lasso",X_capital, y_capital, ylim=(0.7,1.0), cv=kf,
+                        n_jobs=-1, train_sizes=np.linspace(.1, 1.0, 10))
+```
