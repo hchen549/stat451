@@ -1,0 +1,10 @@
+Best Hyperparameters and Test Accuracies:
+SVM, no paratmter: 0.8794666666666666
+LinearSVM, with regularization parameter C: C=0.01, 0.8881333333333333
+Logistic regression: C=0.1, 0.8896666666666667
+Logistic regression with bagging and C=0.1:   0.89166666666666...(highest, bootstrap size = 60)
+KNN: k = 182, 0.7289333333333333
+Decision Tree: max_depth = 18, criterion = GINI, 0.7408666666666667
+Random Forest: 0.8585333333333334
+
+
