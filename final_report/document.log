@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  13 DEC 2020 07:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  13 DEC 2020 16:51
 entering extended mode
 **./document.tex
 (document.tex
@@ -239,6 +239,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks22
 \@floatcapt=\box33
 )
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.s
+ty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count118
+\multirow@dima=\skip58
+\bigstrutjot=\dimen145
+)
 
 LaTeX Warning: Unused global option(s):
     [letterpage].
@@ -246,39 +254,39 @@ LaTeX Warning: Unused global option(s):
 (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-0.
+1.
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-\Hy@linkcounter=\count118
+\Hy@linkcounter=\count119
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
 f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count119
-\scratchdimen=\dimen145
+\scratchcounter=\count120
+\scratchdimen=\dimen146
 \scratchbox=\box34
-\nofMPsegments=\count120
-\nofMParguments=\count121
+\nofMPsegments=\count121
+\nofMParguments=\count122
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count122
-\MPscratchDim=\dimen146
-\MPnumerator=\count123
-\makeMPintoPDFobject=\count124
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen147
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
 \everyMPtoPDFconversion=\toks24
 )
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
@@ -292,40 +300,39 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
-2.
+3.
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+
+[1{C:/Users/asus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{C:/Users/asus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-] [2]
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+ [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 9
-0.
+9.
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -333,94 +340,136 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 <figures/html_tag.png, id=20, 341.77687pt x 38.39343pt>
 File: figures/html_tag.png Graphic file (type png)
 <use figures/html_tag.png>
-Package pdftex.def Info: figures/html_tag.png  used on input line 92.
-(pdftex.def)             Requested size: 191.24248pt x 21.48376pt.
+Package pdftex.def Info: figures/html_tag.png  used on input line 101.
+(pdftex.def)             Requested size: 227.37749pt x 25.54301pt.
 <figures/html_tag_removed.png, id=21, 299.61937pt x 36.88782pt>
 File: figures/html_tag_removed.png Graphic file (type png)
 <use figures/html_tag_removed.png>
-Package pdftex.def Info: figures/html_tag_removed.png  used on input line 95.
-(pdftex.def)             Requested size: 191.24248pt x 23.54562pt.
+Package pdftex.def Info: figures/html_tag_removed.png  used on input line 104.
+(pdftex.def)             Requested size: 227.37749pt x 27.99449pt.
 <figures/special_char.png, id=22, 513.92pt x 43.16125pt>
 File: figures/special_char.png Graphic file (type png)
 <use figures/special_char.png>
-Package pdftex.def Info: figures/special_char.png  used on input line 102.
-(pdftex.def)             Requested size: 191.24248pt x 16.0616pt.
+Package pdftex.def Info: figures/special_char.png  used on input line 111.
+(pdftex.def)             Requested size: 227.37749pt x 19.09637pt.
 <figures/special_char_removed.png, id=23, 546.04pt x 47.17625pt>
 File: figures/special_char_removed.png Graphic file (type png)
 <use figures/special_char_removed.png>
 Package pdftex.def Info: figures/special_char_removed.png  used on input line 1
-05.
-(pdftex.def)             Requested size: 191.24248pt x 16.52272pt.
+14.
+(pdftex.def)             Requested size: 227.37749pt x 19.64471pt.
 <figures/stop_words.png, id=24, 764.8575pt x 54.2025pt>
 File: figures/stop_words.png Graphic file (type png)
 <use figures/stop_words.png>
-Package pdftex.def Info: figures/stop_words.png  used on input line 112.
-(pdftex.def)             Requested size: 191.24248pt x 13.55223pt.
+Package pdftex.def Info: figures/stop_words.png  used on input line 121.
+(pdftex.def)             Requested size: 227.37749pt x 16.11282pt.
 <figures/stop_words_removed.png, id=25, 610.28pt x 46.1725pt>
 File: figures/stop_words_removed.png Graphic file (type png)
 <use figures/stop_words_removed.png>
-Package pdftex.def Info: figures/stop_words_removed.png  used on input line 115
+Package pdftex.def Info: figures/stop_words_removed.png  used on input line 124
 .
-(pdftex.def)             Requested size: 191.24248pt x 14.46901pt.
+(pdftex.def)             Requested size: 227.37749pt x 17.2026pt.
 <figures/stem.png, id=26, 508.90125pt x 51.19125pt>
 File: figures/stem.png Graphic file (type png)
 <use figures/stem.png>
-Package pdftex.def Info: figures/stem.png  used on input line 123.
-(pdftex.def)             Requested size: 191.24248pt x 19.23727pt.
+Package pdftex.def Info: figures/stem.png  used on input line 132.
+(pdftex.def)             Requested size: 227.37749pt x 22.87259pt.
 <figures/after_stem.png, id=27, 346.29375pt x 53.19875pt>
 File: figures/after_stem.png Graphic file (type png)
 <use figures/after_stem.png>
-Package pdftex.def Info: figures/after_stem.png  used on input line 126.
-(pdftex.def)             Requested size: 191.24248pt x 29.37953pt.
+Package pdftex.def Info: figures/after_stem.png  used on input line 135.
+(pdftex.def)             Requested size: 227.37749pt x 34.93106pt.
+
+
+LaTeX Warning: Reference `??' on page 3 undefined on input line 140.
+
 <figures/vectorization.png, id=28, 323.2075pt x 41.15375pt>
 File: figures/vectorization.png Graphic file (type png)
 <use figures/vectorization.png>
-Package pdftex.def Info: figures/vectorization.png  used on input line 133.
-(pdftex.def)             Requested size: 191.24248pt x 24.35081pt.
+Package pdftex.def Info: figures/vectorization.png  used on input line 142.
+(pdftex.def)             Requested size: 227.37749pt x 28.95184pt.
 <figures/vec_result.png, id=30, 379.91937pt x 53.19875pt>
 File: figures/vec_result.png Graphic file (type png)
 <use figures/vec_result.png>
-Package pdftex.def Info: figures/vec_result.png  used on input line 134.
-(pdftex.def)             Requested size: 191.24248pt x 26.77951pt.
+Package pdftex.def Info: figures/vec_result.png  used on input line 143.
+(pdftex.def)             Requested size: 227.37749pt x 31.83913pt.
+
+Underfull \hbox (badness 3449) in paragraph at lines 140--145
+[]\OT1/ptm/m/n/10 Now we need to turn fea-tures (words) into a
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 140--145
+\OT1/ptm/m/n/10 de-sign ma-trix. This step is per-formed by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+\OT1/pcr/m/n/10 CountVectorizer \OT1/ptm/m/n/10 class im-ported from scikit-
+ []
 
 [3 <./figures/html_tag.png> <./figures/html_tag_removed.png> <./figures/special
-_char.png> <./figures/special_char_removed.png> <./figures/stem.png> <./figures
-/after_stem.png> <./figures/vectorization.png> <./figures/vec_result.png> <./fi
-gures/stop_words.png> <./figures/stop_words_removed.png>] [4
+_char.png> <./figures/special_char_removed.png> <./figures/stop_words.png> <./f
+igures/stop_words_removed.png> <./figures/stem.png> <./figures/after_stem.png>]
 
-] (document.aux) ) 
+Overfull \hbox (9.25737pt too wide) in paragraph at lines 153--176
+[][] 
+ []
+
+<figures/ROC_SVM.png, id=39, 433.62pt x 289.08pt>
+File: figures/ROC_SVM.png Graphic file (type png)
+<use figures/ROC_SVM.png>
+Package pdftex.def Info: figures/ROC_SVM.png  used on input line 181.
+(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
+<figures/McNemar_SVM.png, id=40, 433.62pt x 289.08pt>
+File: figures/McNemar_SVM.png Graphic file (type png)
+<use figures/McNemar_SVM.png>
+Package pdftex.def Info: figures/McNemar_SVM.png  used on input line 187.
+(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
+(document.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [4 <./figures/vectorization.png> <./figures/vec_result.png> <./figures/ROC_SV
+M.png> <./figures/McNemar_SVM.png>] [5
+
+] (document.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4464 strings out of 492448
- 69117 string characters out of 3120446
- 147838 words of memory out of 3000000
- 8760 multiletter control sequences out of 15000+200000
- 32465 words of font info for 82 fonts, out of 3000000 for 9000
+ 4546 strings out of 492448
+ 70481 string characters out of 3120446
+ 149607 words of memory out of 3000000
+ 8833 multiletter control sequences out of 15000+200000
+ 34565 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,8n,48p,808b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dv
-ips/base/8r.enc}<D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cmextra/cmbsy7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/Users/asus/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Users/asus/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Users/a
-sus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb>
+ 50i,10n,48p,805b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
 <D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmib10.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cmextra/cmmib7.pfb><D:/Users/asus/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/asus/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/asus/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/U
-sers/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
-7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/
-ucrr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
-vetic/uhvr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/times/utmb8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/times/utmr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on document.pdf (4 pages, 231276 bytes).
+extra/cmbsy7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><D:/Users/asus/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Users/asus/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Users/asus/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/U
+sers/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+b10.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cmextra/cmmib7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/asus/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/asus/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Users/asus/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Users/
+asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><D:/U
+sers/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb
+><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
+pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr
+8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on document.pdf (5 pages, 267509 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
