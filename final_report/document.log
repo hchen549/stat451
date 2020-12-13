@@ -1,0 +1,426 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  13 DEC 2020 07:46
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2019-10-01> patch level 3
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\empheq.st
+y"
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.s
+ty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtools
+.sty"
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count102
+\calc@Cskip=\skip48
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count103
+\l_MT_multwidth_dim=\dimen114
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen115
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen116
+\l_MT_above_intertext_sep=\dimen117
+\l_MT_below_intertext_sep=\dimen118
+\l_MT_above_shortintertext_sep=\dimen119
+\l_MT_below_shortintertext_sep=\dimen120
+)
+\l_EQ_equationtype_int=\count104
+\l_EQ_alignmentmode_int=\count105
+\l_EQ_totalwidth_dim=\dimen121
+\l_EQ_displaywidth_dim=\dimen122
+\l_EQ_temp_linewidth_dim=\dimen123
+\EmphEqdelimitershortfall=\dimen124
+\EmphEqdelimiterfactor=\count106
+\g_EQ_toptag_height_dim=\dimen125
+\g_EQ_bottomtag_depth_dim=\dimen126
+\g_EQ_toprow_height_dim=\dimen127
+\g_EQ_bottomrow_depth_dim=\dimen128
+\g_EQ_widesttag_dim=\dimen129
+\EQ_mathdisplay_box=\box29
+\EQ_tag_box=\box30
+\g_EQ_temprow_int=\count107
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen130
+\Gin@req@width=\dimen131
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen132
+\captionmargin@=\dimen133
+\captionwidth=\dimen134
+\caption@tempdima=\dimen135
+\caption@indent=\dimen136
+\caption@parindent=\dimen137
+\caption@hangindent=\dimen138
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count108
+\c@continuedfloat=\count109
+)
+\c@KVtest=\count110
+\sf@farskip=\skip50
+\sf@captopadj=\dimen139
+\sf@capskip=\skip51
+\sf@nearskip=\skip52
+\c@subfigure=\count111
+\c@subfigure@save=\count112
+\c@lofdepth=\count113
+\c@subtable=\count114
+\c@subtable@save=\count115
+\c@lotdepth=\count116
+\sf@top=\skip53
+\sf@bottom=\skip54
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.s
+ty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box31
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen140
+\ttl@minus=\dimen141
+\ttl@toksa=\toks20
+\titlewidth=\dimen142
+\titlewidthlast=\dimen143
+\titlewidthfirst=\dimen144
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count117
+\float@exts=\toks21
+\float@box=\box32
+\@float@everytoks=\toks22
+\@floatcapt=\box33
+)
+
+LaTeX Warning: Unused global option(s):
+    [letterpage].
+
+(document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+0.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\Hy@linkcounter=\count118
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen145
+\scratchbox=\box34
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen146
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks24
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
+2.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/asus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+] [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 9
+0.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+<figures/html_tag.png, id=20, 341.77687pt x 38.39343pt>
+File: figures/html_tag.png Graphic file (type png)
+<use figures/html_tag.png>
+Package pdftex.def Info: figures/html_tag.png  used on input line 92.
+(pdftex.def)             Requested size: 191.24248pt x 21.48376pt.
+<figures/html_tag_removed.png, id=21, 299.61937pt x 36.88782pt>
+File: figures/html_tag_removed.png Graphic file (type png)
+<use figures/html_tag_removed.png>
+Package pdftex.def Info: figures/html_tag_removed.png  used on input line 95.
+(pdftex.def)             Requested size: 191.24248pt x 23.54562pt.
+<figures/special_char.png, id=22, 513.92pt x 43.16125pt>
+File: figures/special_char.png Graphic file (type png)
+<use figures/special_char.png>
+Package pdftex.def Info: figures/special_char.png  used on input line 102.
+(pdftex.def)             Requested size: 191.24248pt x 16.0616pt.
+<figures/special_char_removed.png, id=23, 546.04pt x 47.17625pt>
+File: figures/special_char_removed.png Graphic file (type png)
+<use figures/special_char_removed.png>
+Package pdftex.def Info: figures/special_char_removed.png  used on input line 1
+05.
+(pdftex.def)             Requested size: 191.24248pt x 16.52272pt.
+<figures/stop_words.png, id=24, 764.8575pt x 54.2025pt>
+File: figures/stop_words.png Graphic file (type png)
+<use figures/stop_words.png>
+Package pdftex.def Info: figures/stop_words.png  used on input line 112.
+(pdftex.def)             Requested size: 191.24248pt x 13.55223pt.
+<figures/stop_words_removed.png, id=25, 610.28pt x 46.1725pt>
+File: figures/stop_words_removed.png Graphic file (type png)
+<use figures/stop_words_removed.png>
+Package pdftex.def Info: figures/stop_words_removed.png  used on input line 115
+.
+(pdftex.def)             Requested size: 191.24248pt x 14.46901pt.
+<figures/stem.png, id=26, 508.90125pt x 51.19125pt>
+File: figures/stem.png Graphic file (type png)
+<use figures/stem.png>
+Package pdftex.def Info: figures/stem.png  used on input line 123.
+(pdftex.def)             Requested size: 191.24248pt x 19.23727pt.
+<figures/after_stem.png, id=27, 346.29375pt x 53.19875pt>
+File: figures/after_stem.png Graphic file (type png)
+<use figures/after_stem.png>
+Package pdftex.def Info: figures/after_stem.png  used on input line 126.
+(pdftex.def)             Requested size: 191.24248pt x 29.37953pt.
+<figures/vectorization.png, id=28, 323.2075pt x 41.15375pt>
+File: figures/vectorization.png Graphic file (type png)
+<use figures/vectorization.png>
+Package pdftex.def Info: figures/vectorization.png  used on input line 133.
+(pdftex.def)             Requested size: 191.24248pt x 24.35081pt.
+<figures/vec_result.png, id=30, 379.91937pt x 53.19875pt>
+File: figures/vec_result.png Graphic file (type png)
+<use figures/vec_result.png>
+Package pdftex.def Info: figures/vec_result.png  used on input line 134.
+(pdftex.def)             Requested size: 191.24248pt x 26.77951pt.
+
+[3 <./figures/html_tag.png> <./figures/html_tag_removed.png> <./figures/special
+_char.png> <./figures/special_char_removed.png> <./figures/stem.png> <./figures
+/after_stem.png> <./figures/vectorization.png> <./figures/vec_result.png> <./fi
+gures/stop_words.png> <./figures/stop_words_removed.png>] [4
+
+] (document.aux) ) 
+Here is how much of TeX's memory you used:
+ 4464 strings out of 492448
+ 69117 string characters out of 3120446
+ 147838 words of memory out of 3000000
+ 8760 multiletter control sequences out of 15000+200000
+ 32465 words of font info for 82 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,8n,48p,808b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dv
+ips/base/8r.enc}<D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cmextra/cmbsy7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/Users/asus/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Users/asus/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Users/a
+sus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb>
+<D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmib10.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cmextra/cmmib7.pfb><D:/Users/asus/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/asus/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/asus/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/U
+sers/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/
+ucrr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
+vetic/uhvr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/times/utmb8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/urw/times/utmr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on document.pdf (4 pages, 231276 bytes).
+PDF statistics:
+ 97 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
