@@ -5,6 +5,7 @@
 \usepackage{titlesec}
 \usepackage{float}
 \usepackage{multirow}
+\usepackage{url}
 
 \titleformat{\section}{\Large\bfseries\filcenter}{\thesection.}{0.2em}{}
 \titleformat{\subsection}{\large\bfseries\filright}{\thesubsection}{0.5em}{}
@@ -188,6 +189,22 @@
 			\caption{McNemar's Test}\label{McNemar_SVM}
 		\end{figure} 
 		\subsection{KNN}
+	\section{Discussion}
+	It is important to note that the performance of each model varies significantly from each other. KNN and Decision Tree turn out to perform the worst with 72.893\% and 74.08\% over all accuracy, which is much less accurate than the other 5 models. We conclude that KNN and Decision tree is not suitable for sentimental analysis. 
+
+	However, we were expecting Random Forest to outperform other fitted models while it turns out to be the least accurate model excluding KNN and Decision Tree. It is possible that we did not find the best parameter for Random Forest. The reason is that Random Forest is computationally expensive. Though the performance of Random Forest should be increasing as higher value of parameter \textit{max\_depth} is assigned, the grid search process took hours to run and selected \textit{none} as the best parameter value for \textit{max\_depth}.We are curious to see the performance of Random Forest if we are able to find the best parameter for \textit{max\_depth} with either a enhanced hardware or cloud computing.
+	
+\section{Conclusion}
+	The analysis presented in the report aims to find the best algorithm for sentiment analysis of IMDb reviews. We demonstrated several potential algorithm including SVM, KNN, Decision Tree, Random Forest and Logistic Regression, train them on the same dataset with paramenter tunning and different machine learning techiniques, and evaluate the performance in terms of accuracy. We also use ROC curve, Confusion Matrix and Learning Curve as supplementary techniques to help us better evaluate and understand the fitted models.
+
+	From Table 1, we cconclude that Logistic Regression performs the bestamong all fitted models, with an overall 89.167\% accuracy and Bagging size of 60. Nonetheless, it is possible that Random Forest could be improved during parameter tunning stage
+
+	
+
+	\section{Contributions}
+	\section{Code}
+	All of the code used to generate the plots and results for this project is on GitHub: \url{https://github.com/hchen549/stat451}
+
 	\bibliographystyle{plain}	
 	\bibliography{reference}
 \end{document}
