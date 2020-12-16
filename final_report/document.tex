@@ -56,11 +56,11 @@ representation from the 50,000 review of movies listed on IMDb\cite{maas-EtAl:20
 	
 	To find out the most suitable classification algorithm for this task, we experiment with SVM (RBF and linear kernels), KNN, Decision Tree, Random Forest, and Logistic Regression (with and without bagging). First of all, we extract 50,000 movie reviews and their corresponding 0-1 labels, and clean up the data by \textit{Natural Language Toolkit} (NLTK) package of Python. Then, we use 70\% of the data for training and the rest for testing. All the aforementioned algorithms are trained using the features selected in the first step. Lastly, test accuracy is computed for each algorithm, and further analyses such as McNemar's test and ROC comparisons are implemented to rank the algorithms.
 	\section{Related work}
-	Gautam, G. and Yadav, D conducted the sentiment analysis on the Twitter data and focused specifically on the extraction of adjectives within each document\cite{6897213}. They then progressed to several machine learning algorithms, including Naive Bayes, Support Vector Machine, and Maximum Entropy, followed by semantic analysis. The model performance was measured using precision, recall, and accuracy.
-	
+	There have been some previous studies on sentimental analysis. Back in 2004,Pang and Lee proposed a method to combine the traditional bag-of-words model with a minimum-cut framework to retain the polarity information\cite{DBLP:journals/corr/cs-CL-0409058}. Their approach will not only reduce computational complexity by reducing the length of texts but also achieve significantly better results compared to the model trained on the original full dataset. 
+
 	Wilson et al’s work presented an approach to phrase-level sentiment analysis, which determines whether an expression is neutral or polar at first and then disambiguates the polarity of the polar expressions (Wilson, Wiebe, \& Hoffmann, 2005)\cite{wilson-etal-2005-recognizing}.  By considering prior polarity and contextual priority, they are able to identify negation and intensification on a phrase level and achieve much better results compared to the baseline model.
-	
-	Pang and Lee proposed a method to combine the traditional bag-of-words model with a minimum-cut framework to retain the polarity information\cite{DBLP:journals/corr/cs-CL-0409058}. Their approach will not only reduce computational complexity by reducing the length of texts but also achieve significantly better results compared to the model trained on the original full dataset. 
+
+	The recent studies have been focusing on extracting information on social media. Gautam, G. and Yadav, D conducted the sentiment analysis on the Twitter data and focused specifically on the extraction of adjectives within each document\cite{6897213}. They then progressed to several machine learning algorithms, including Naive Bayes, Support Vector Machine, and Maximum Entropy, followed by semantic analysis. The model performance was measured using precision, recall, and accuracy.
 	
 	However, the above researches focus more on extracting accurate and compact information from the raw data and limited to the use of a single machine learning model to improve prediction accuracy. Instead, this report will put a great emphasis on examining the power of ensembling methods in the case of natural language processing. We will extend on the previous machine learning models and combine them into a new model with different techniques.
 	\section{Proposed Methods}
@@ -233,7 +233,7 @@ representation from the 50,000 review of movies listed on IMDb\cite{maas-EtAl:20
 	
 
 	\section{Contributions}
-	Haoming Chen found the original dataset online and cleaned up the data for furthur analysis. Ruiting Tong coded the following models with parameter tunning: SVM(RBF kernel), Decision Tree, KNN and Logistic Regression with and with out bagging. Dingyi Li coded the rest models, SVM(Linear kernel) and Random Forest, and added code to generate confusion matrix, ROC curve and learning curve. Every one worked together and finished the project report.
+	Haoming Chen found the original dataset online and cleaned up the data for furthur analysis. Ruiting Tong coded the following models with parameter tunning: SVM(RBF kernel), Decision Tree, KNN and Logistic Regression with and with out bagging. Dingyi Li coded the rest models, SVM(Linear kernel) and Random Forest, and added code to generate confusion matrix, ROC curve and learning curve. As for the report, Haoming drafted Introduction and Related Work. Ruiting finished Abstract, Proposed Methods, Experiments and SVM section under Results section. He also worked on the overall structure of the paper including paper style and reference. Dingyi finished the rest of Results section, Discussion and Conclusion.
 	\section{Code}
 	All of the code used to generate the plots and results for this project is on GitHub: \url{https://github.com/hchen549/stat451}
 
