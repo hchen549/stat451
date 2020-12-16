@@ -92,6 +92,8 @@
 	
 	Different bagging sizes are attempted to help us visualize a pattern of increase in test accuracy. 
 	\section{Experiment}	
+	\subsection{Dataset}
+	This dataset, originally obtained from IMDb database, is now published on Kaggle after initial preprocessing. The dataset provides a perfectly balanced class between positive and negative reviews, 25000 reviews for each label, 50000 reviews in total. The original movie rating is on a scale from 1 to 10. When the dataset was first processed by previous researchers, there was a threshold where a review will be labeled as negative when the rating is lower than 4 and positive when the rating is higher than 7. Though the dataset has been preprocessed, there are still some clean up work need to be done for our analysis.
 	\subsection{Language Processing}
 	\subsubsection{Removing HTML tags, special characters, and stop words}
 	Being read the internet, raw review data contains tags that constitute the grammar of HTML, punctuation, and words that are not related to sentiments (stop words). We remove these irrelevant components: 
