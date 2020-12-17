@@ -210,20 +210,20 @@
 	\subsection{KNN}
 	The KNN model achieves 72.89\% accuracy with optimal k of 182, which is the lowest accuracy achieved among all models we fitted in the project. The result is not surprising as we expected KNN to serve as a baseline model for comparison in our project because of its simplicity. Though it is possible that we did not find the best parameter value because of the interval search process we used, it is not worthy of going further on KNN since we are not expecting a dramatic improvement on accuracy caused by parameter value change.
 	\subsection{Decision Tree \& Random Forest}
-	The Decision Tree model achieves a test accuracy of 74.09\% while Randomn Forest achieves a test accuracy of 85.85\%. The result is not surprsing as Random Forest is an ensemble method that leveragges the power of multiple decision trees for making decisions.The performance can be illustrated with Figure 9, from which we can see that the ROC curve for Random Forest is much futhur above Decision Tree. 
+	The Decision Tree model achieves a test accuracy of 74.09\% while Randomn Forest achieves a test accuracy of 85.85\%. The result is not surprsing as Random Forest is an ensemble method that leveragges the power of multiple decision trees for making decisions.The performance can be illustrated with Figure \ref{ROC_RF_DT}, from which we can see that the ROC curve for Random Forest is much futhur above Decision Tree. 
 	\begin{figure}[H]
 		\includegraphics[width=\columnwidth]{ROC_RF_DT}
 		\caption{Comparison of Decision Tree and Random Forest}\label{ROC_RF_DT}
 	\end{figure} 
 	The disadvantage of using Random Forest over Decision Tree is the overwhelming computional complexity.The parameter tunning process for Random Forest generally takes hours to run given a few specified parameter. However, considering the dramatic performance improvement, Random Forest is undoubtedly peferred over Decision Tree.
 	\subsection{Logistic Regression}
-	The Logistic Regression achieves a test accuracy of 88.97\%, which is the highest accuracy among all the models we have discussed so far. To see if we can furthur improve Logistic Regression performance, we applied bagging to it. We have changed the bagging size from 10 to 80 by a step of 10,fit the model, test on the testing set and record the accuracy. From Figure 10, we observe an overall improvement on accuracy and the highest accuracy, 89.17\%, is achieved at bagging size of 60.
+	The Logistic Regression achieves a test accuracy of 88.97\%, which is the highest accuracy among all the models we have discussed so far. To see if we can furthur improve Logistic Regression performance, we applied bagging to it. We have changed the bagging size from 10 to 80 by a step of 10,fit the model, test on the testing set and record the accuracy. From Figure \ref{Logistic_bagging}, we observe an overall improvement on accuracy and the highest accuracy, 89.17\%, is achieved at bagging size of 60.
 
 	\begin{figure}[H]
 		\includegraphics[width=\columnwidth]{Logistic_bagging}
 		\caption{Test Accuracy vs Bagging Size}\label{Logistic_bagging}
 	\end{figure} 	
-	Furthurmore, by plotting ROC curves for logistic regression with and without bagging in Figure 11, we can see that ROC curve with bagging lies entirely above the one without bagging. Therefore, we can confirm the usefullness of the ensemble method of bagging on Logistic Regression.
+	Furthurmore, by plotting ROC curves for logistic regression with and without bagging in Figure \ref{ROCComparsion}, we can see that ROC curve with bagging lies entirely above the one without bagging. Therefore, we can confirm the usefullness of the ensemble method of bagging on Logistic Regression.
 	
 	\begin{figure}[htbp]
 		\includegraphics[width=\columnwidth]{ROCComparsion}
@@ -250,6 +250,6 @@
 	\section{Code}
 	All of the code used to generate the plots and results for this project is on GitHub: \url{https://github.com/hchen549/stat451}
 	
-	\bibliographystyle{plain}	
+	\bibliographystyle{ieeetr}	
 	\bibliography{reference}
 \end{document}
