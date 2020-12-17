@@ -1,3 +1,32 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{6897213}
+G.~{Gautam} and D.~{Yadav}.
+\newblock Sentiment analysis of twitter data using machine learning approaches
+  and semantic analysis.
+\newblock In {\em 2014 Seventh International Conference on Contemporary
+  Computing (IC3)}, pages 437--442, 2014.
+
+\bibitem{maas-EtAl:2011:ACL-HLT2011}
+Andrew~L. Maas, Raymond~E. Daly, Peter~T. Pham, Dan Huang, Andrew~Y. Ng, and
+  Christopher Potts.
+\newblock Learning word vectors for sentiment analysis.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies}, pages 142--150,
+  Portland, Oregon, USA, June 2011. Association for Computational Linguistics.
+
+\bibitem{DBLP:journals/corr/cs-CL-0409058}
+Bo~Pang and Lillian Lee.
+\newblock A sentimental education: Sentiment analysis using subjectivity
+  summarization based on minimum cuts.
+\newblock {\em CoRR}, cs.CL/0409058, 2004.
+
+\bibitem{wilson-etal-2005-recognizing}
+Theresa Wilson, Janyce Wiebe, and Paul Hoffmann.
+\newblock Recognizing contextual polarity in phrase-level sentiment analysis.
+\newblock In {\em Proceedings of Human Language Technology Conference and
+  Conference on Empirical Methods in Natural Language Processing}, pages
+  347--354, Vancouver, British Columbia, Canada, October 2005. Association for
+  Computational Linguistics.
 
 \end{thebibliography}
