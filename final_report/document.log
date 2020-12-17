@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  16 DEC 2020 20:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  17 DEC 2020 12:46
 entering extended mode
 **./document.tex
 (document.tex
@@ -20,13 +20,106 @@ File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty"
+(statcourse.sty
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty
+"
+Package: eso-pic 2020/09/27 v2.0i eso-pic (RN)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegshi
+.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
+rr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
+ty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\ESO@tempdima=\dimen103
+\ESO@tempdimb=\dimen104
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `statcourse.sty'.
+\@ctmp=\skip43
+\@figindent=\skip44
+\statcourserulerbox=\box27
+\statcourserulercount=\count88
+\statcourseruleroffset=\dimen105
+\cv@lineheight=\dimen106
+\cv@boxheight=\dimen107
+\cv@tmpbox=\box28
+\cv@refno=\count89
+\cv@tot=\count90
+\cv@tmpc@=\count91
+\cv@tmpc=\count92
+) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\epsfig.sty
+"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+\epsfxsize=\dimen110
+\epsfysize=\dimen111
 )
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
 "
 Package: amsmath 2019/11/16 v2.17d AMS math features
-\@mathmargin=\skip43
+\@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
@@ -35,54 +128,58 @@ Package: amstext 2000/06/29 v2.01 AMS text
  ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks14
-\ex@=\dimen103
+\@emptytoks=\toks15
+\ex@=\dimen112
 ))
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen104
+\pmbraise@=\dimen113
 ) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count88
+\inf@bad=\count93
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count89
-\leftroot@=\count90
+\uproot@=\count94
+\leftroot@=\count95
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count91
-\DOTSCASE@=\count92
+\classnum@=\count96
+\DOTSCASE@=\count97
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen105
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen114
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count93
-\c@MaxMatrixCols=\count94
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
 \dotsspace@=\muskip10
-\c@parentequation=\count95
-\dspbrk@lvl=\count96
-\tag@help=\toks15
-\row@=\count97
-\column@=\count98
-\maxfields@=\count99
-\andhelp@=\toks16
-\eqnshift@=\dimen106
-\alignsep@=\dimen107
-\tagshift@=\dimen108
-\tagwidth@=\dimen109
-\totwidth@=\dimen110
-\lineht@=\dimen111
-\@envbody=\toks17
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks18
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 )
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
 ty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -91,7 +188,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
+)) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -110,77 +207,48 @@ Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtools
 .sty"
 Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
-
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
-"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+ ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count100
-\calc@Bcount=\count101
-\calc@Adimen=\dimen112
-\calc@Bdimen=\dimen113
-\calc@Askip=\skip46
-\calc@Bskip=\skip47
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen121
+\calc@Bdimen=\dimen122
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count102
-\calc@Cskip=\skip48
+\calc@Ccount=\count107
+\calc@Cskip=\skip50
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count103
-\l_MT_multwidth_dim=\dimen114
-\origjot=\skip49
-\l_MT_shortvdotswithinadjustabove_dim=\dimen115
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen116
-\l_MT_above_intertext_sep=\dimen117
-\l_MT_below_intertext_sep=\dimen118
-\l_MT_above_shortintertext_sep=\dimen119
-\l_MT_below_shortintertext_sep=\dimen120
+\g_MT_multlinerow_int=\count108
+\l_MT_multwidth_dim=\dimen123
+\origjot=\skip51
+\l_MT_shortvdotswithinadjustabove_dim=\dimen124
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen125
+\l_MT_above_intertext_sep=\dimen126
+\l_MT_below_intertext_sep=\dimen127
+\l_MT_above_shortintertext_sep=\dimen128
+\l_MT_below_shortintertext_sep=\dimen129
 )
-\l_EQ_equationtype_int=\count104
-\l_EQ_alignmentmode_int=\count105
-\l_EQ_totalwidth_dim=\dimen121
-\l_EQ_displaywidth_dim=\dimen122
-\l_EQ_temp_linewidth_dim=\dimen123
-\EmphEqdelimitershortfall=\dimen124
-\EmphEqdelimiterfactor=\count106
-\g_EQ_toptag_height_dim=\dimen125
-\g_EQ_bottomtag_depth_dim=\dimen126
-\g_EQ_toprow_height_dim=\dimen127
-\g_EQ_bottomrow_depth_dim=\dimen128
-\g_EQ_widesttag_dim=\dimen129
-\EQ_mathdisplay_box=\box29
-\EQ_tag_box=\box30
-\g_EQ_temprow_int=\count107
-)
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
-ty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
-ty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
-
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
-cs.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
-.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen130
-\Gin@req@width=\dimen131
+\l_EQ_equationtype_int=\count109
+\l_EQ_alignmentmode_int=\count110
+\l_EQ_totalwidth_dim=\dimen130
+\l_EQ_displaywidth_dim=\dimen131
+\l_EQ_temp_linewidth_dim=\dimen132
+\EmphEqdelimitershortfall=\dimen133
+\EmphEqdelimiterfactor=\count111
+\g_EQ_toptag_height_dim=\dimen134
+\g_EQ_bottomtag_depth_dim=\dimen135
+\g_EQ_toprow_height_dim=\dimen136
+\g_EQ_bottomrow_depth_dim=\dimen137
+\g_EQ_widesttag_dim=\dimen138
+\EQ_mathdisplay_box=\box31
+\EQ_tag_box=\box32
+\g_EQ_temprow_int=\count112
 )
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
@@ -193,100 +261,236 @@ Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 y"
 Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen132
-\captionmargin@=\dimen133
-\captionwidth=\dimen134
-\caption@tempdima=\dimen135
-\caption@indent=\dimen136
-\caption@parindent=\dimen137
-\caption@hangindent=\dimen138
-Package caption Info: Standard document class detected.
+\captionmargin=\dimen139
+\captionmargin@=\dimen140
+\captionwidth=\dimen141
+\caption@tempdima=\dimen142
+\caption@indent=\dimen143
+\caption@parindent=\dimen144
+\caption@hangindent=\dimen145
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2-> \setbox \@tempboxa \hb
+ox {\small \noindent #1.~#2} \setlength {\@ctmp }{\hsize } \addtolength {\@ctmp
+ }{-\@figindent }\addtolength {\@ctmp }{-\@figindent } \ifdim \wd \@tempboxa >\
+@ctmp {\small #1.~#2\par } \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } 
+\fi  on input line 1082.
 )
-\c@caption@flags=\count108
-\c@continuedfloat=\count109
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count113
+\c@continuedfloat=\count114
 )
-\c@KVtest=\count110
-\sf@farskip=\skip50
-\sf@captopadj=\dimen139
-\sf@capskip=\skip51
-\sf@nearskip=\skip52
-\c@subfigure=\count111
-\c@subfigure@save=\count112
-\c@lofdepth=\count113
-\c@subtable=\count114
-\c@subtable@save=\count115
-\c@lotdepth=\count116
-\sf@top=\skip53
-\sf@bottom=\skip54
-)
-("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.s
-ty"
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box31
-\beforetitleunit=\skip55
-\aftertitleunit=\skip56
-\ttl@plus=\dimen140
-\ttl@minus=\dimen141
-\ttl@toksa=\toks20
-\titlewidth=\dimen142
-\titlewidthlast=\dimen143
-\titlewidthfirst=\dimen144
+\c@KVtest=\count115
+\sf@farskip=\skip52
+\sf@captopadj=\dimen146
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count116
+\c@subfigure@save=\count117
+\c@lofdepth=\count118
+\c@subtable=\count119
+\c@subtable@save=\count120
+\c@lotdepth=\count121
+\sf@top=\skip55
+\sf@bottom=\skip56
 ) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count117
-\float@exts=\toks21
-\float@box=\box32
-\@float@everytoks=\toks22
-\@floatcapt=\box33
+\c@float@type=\count122
+\float@exts=\toks20
+\float@box=\box33
+\@float@everytoks=\toks21
+\@floatcapt=\box34
 )
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.s
 ty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip57
-\multirow@cntb=\count118
+\multirow@cntb=\count123
 \multirow@dima=\skip58
-\bigstrutjot=\dimen145
+\bigstrutjot=\dimen147
 ) ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(document.aux)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
+ty"
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcm
+ds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
+ys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
+finekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesca
+pe.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty
+"
+Package: hycolor 2019/12/15 v1.9 Color options for hyperref/bookmark (HO)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\xcolor-patc
+h.sty"
+Package: xcolor-patch 2019/12/15 xcolor patch
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hopatch.st
+y"
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxm
+acro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
+"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions
+.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen148
+\Hy@linkcounter=\count124
+\Hy@pagecounter=\count125
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+"
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.s
+ty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
+.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count126
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.c
+fg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4409.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4409.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4794.
+\c@Hy@tempcnt=\count127
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen149
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty
+"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigint
+calc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count128
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
+Package hyperref Info: Hyper figures OFF on input line 6418.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing OFF on input line 6433.
+Package hyperref Info: Link coloring OFF on input line 6438.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+\Hy@abspage=\count129
+\c@Item=\count130
+\c@Hfootnote=\count131
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
+f"
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryend
+.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count132
+\c@bookmark@seq@number=\count133
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\reru
+nfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uni
+quecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip59
+) (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-2.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
+5.
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-\Hy@linkcounter=\count119
+\AtBeginShipoutBox=\box35
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
 f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count120
-\scratchdimen=\dimen146
-\scratchbox=\box34
-\nofMPsegments=\count121
-\nofMParguments=\count122
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count123
-\MPscratchDim=\dimen147
-\MPnumerator=\count124
-\makeMPintoPDFobject=\count125
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count134
+\scratchdimen=\dimen152
+\scratchbox=\box36
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen153
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks23
 )
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
 df-base.sty"
@@ -297,228 +501,249 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+Package hyperref Info: Link coloring OFF on input line 25.
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
+y"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.s
+ty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\ge
+ttitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count140
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
 
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
-4.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+8.
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+
+Underfull \hbox (badness 1442) in paragraph at lines 53--54
+\OT1/ptm/m/n/10 with a minimum-cut frame-work to re-tain the po-lar-ity
+ []
 
 [1{C:/Users/asus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
- [2]
+] [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 100.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-04.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
+
+Underfull \vbox (badness 2418) has occurred while \output is active []
+
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 9
+9.
 
 ("D:\Users\asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-<figures/html_tag.png, id=20, 341.77687pt x 38.39343pt>
+<figures/html_tag.png, id=46, 341.77687pt x 38.39343pt>
 File: figures/html_tag.png Graphic file (type png)
 <use figures/html_tag.png>
-Package pdftex.def Info: figures/html_tag.png  used on input line 106.
-(pdftex.def)             Requested size: 227.37749pt x 25.54301pt.
-<figures/html_tag_removed.png, id=21, 299.61937pt x 36.88782pt>
+Package pdftex.def Info: figures/html_tag.png  used on input line 101.
+(pdftex.def)             Requested size: 237.13594pt x 26.63911pt.
+<figures/html_tag_removed.png, id=47, 299.61937pt x 36.88782pt>
 File: figures/html_tag_removed.png Graphic file (type png)
 <use figures/html_tag_removed.png>
-Package pdftex.def Info: figures/html_tag_removed.png  used on input line 109.
-(pdftex.def)             Requested size: 227.37749pt x 27.99449pt.
-<figures/special_char.png, id=22, 513.92pt x 43.16125pt>
+Package pdftex.def Info: figures/html_tag_removed.png  used on input line 104.
+(pdftex.def)             Requested size: 237.13594pt x 29.19563pt.
+<figures/special_char.png, id=48, 513.92pt x 43.16125pt>
 File: figures/special_char.png Graphic file (type png)
 <use figures/special_char.png>
-Package pdftex.def Info: figures/special_char.png  used on input line 116.
-(pdftex.def)             Requested size: 227.37749pt x 19.09637pt.
-<figures/special_char_removed.png, id=23, 546.04pt x 47.17625pt>
+Package pdftex.def Info: figures/special_char.png  used on input line 111.
+(pdftex.def)             Requested size: 237.13594pt x 19.91565pt.
+<figures/special_char_removed.png, id=49, 546.04pt x 47.17625pt>
 File: figures/special_char_removed.png Graphic file (type png)
 <use figures/special_char_removed.png>
 Package pdftex.def Info: figures/special_char_removed.png  used on input line 1
-19.
-(pdftex.def)             Requested size: 227.37749pt x 19.64471pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./figures/html_tag.png> <./figures/html_tag_removed.png>]
-<figures/stop_words.png, id=32, 764.8575pt x 54.2025pt>
+14.
+(pdftex.def)             Requested size: 237.13594pt x 20.48766pt.
+<figures/stop_words.png, id=50, 764.8575pt x 54.2025pt>
 File: figures/stop_words.png Graphic file (type png)
 <use figures/stop_words.png>
-Package pdftex.def Info: figures/stop_words.png  used on input line 126.
-(pdftex.def)             Requested size: 227.37749pt x 16.11282pt.
-<figures/stop_words_removed.png, id=33, 610.28pt x 46.1725pt>
+Package pdftex.def Info: figures/stop_words.png  used on input line 121.
+(pdftex.def)             Requested size: 237.13594pt x 16.80507pt.
+<figures/stop_words_removed.png, id=51, 610.28pt x 46.1725pt>
 File: figures/stop_words_removed.png Graphic file (type png)
 <use figures/stop_words_removed.png>
-Package pdftex.def Info: figures/stop_words_removed.png  used on input line 129
+Package pdftex.def Info: figures/stop_words_removed.png  used on input line 124
 .
-(pdftex.def)             Requested size: 227.37749pt x 17.2026pt.
-<figures/stem.png, id=34, 508.90125pt x 51.19125pt>
+(pdftex.def)             Requested size: 237.13594pt x 17.94096pt.
+<figures/stem.png, id=52, 508.90125pt x 51.19125pt>
 File: figures/stem.png Graphic file (type png)
 <use figures/stem.png>
-Package pdftex.def Info: figures/stem.png  used on input line 137.
-(pdftex.def)             Requested size: 227.37749pt x 22.87259pt.
-<figures/after_stem.png, id=35, 346.29375pt x 53.19875pt>
+Package pdftex.def Info: figures/stem.png  used on input line 132.
+(pdftex.def)             Requested size: 237.13594pt x 23.85367pt.
+<figures/after_stem.png, id=53, 346.29375pt x 53.19875pt>
 File: figures/after_stem.png Graphic file (type png)
 <use figures/after_stem.png>
-Package pdftex.def Info: figures/after_stem.png  used on input line 140.
-(pdftex.def)             Requested size: 227.37749pt x 34.93106pt.
-<figures/vectorization.png, id=36, 323.2075pt x 41.15375pt>
+Package pdftex.def Info: figures/after_stem.png  used on input line 135.
+(pdftex.def)             Requested size: 237.13594pt x 36.43036pt.
+
+Underfull \hbox (badness 1024) in paragraph at lines 128--137
+\OT1/pcr/m/n/10 WordNetLemmatizer \OT1/ptm/m/n/10 and \OT1/pcr/m/n/10 PortStemm
+er \OT1/ptm/m/n/10 from the
+ []
+
+[3 <./figures/html_tag.png> <./figures/html_tag_removed.png> <./figures/special
+_char.png> <./figures/special_char_removed.png> <./figures/stop_words.png> <./f
+igures/stop_words_removed.png>]
+<figures/vectorization.png, id=72, 323.2075pt x 41.15375pt>
 File: figures/vectorization.png Graphic file (type png)
 <use figures/vectorization.png>
-Package pdftex.def Info: figures/vectorization.png  used on input line 147.
-(pdftex.def)             Requested size: 227.37749pt x 28.95184pt.
-<figures/vec_result.png, id=38, 379.91937pt x 53.19875pt>
+Package pdftex.def Info: figures/vectorization.png  used on input line 142.
+(pdftex.def)             Requested size: 237.13594pt x 30.19456pt.
+<figures/vec_result.png, id=74, 379.91937pt x 53.19875pt>
 File: figures/vec_result.png Graphic file (type png)
 <use figures/vec_result.png>
-Package pdftex.def Info: figures/vec_result.png  used on input line 148.
-(pdftex.def)             Requested size: 227.37749pt x 31.83913pt.
+Package pdftex.def Info: figures/vec_result.png  used on input line 143.
+(pdftex.def)             Requested size: 237.13594pt x 33.2061pt.
 
-Underfull \hbox (badness 3449) in paragraph at lines 145--150
-[]\OT1/ptm/m/n/10 Now we need to turn fea-tures (words) into a
+Underfull \hbox (badness 1412) in paragraph at lines 150--151
+\OT1/ptm/m/n/10 RBF ker-nel is the de-fault pa-ram-e-ter set-ting for class
  []
 
-
-Underfull \hbox (badness 5105) in paragraph at lines 145--150
-\OT1/ptm/m/n/10 de-sign ma-trix. This step is per-formed by the
- []
-
-
-Underfull \vbox (badness 2326) has occurred while \output is active []
-
-<figures/KNN_hyper_tune.png, id=39, 433.62pt x 289.08pt>
+<figures/KNN_hyper_tune.png, id=76, 433.62pt x 289.08pt>
 File: figures/KNN_hyper_tune.png Graphic file (type png)
 <use figures/KNN_hyper_tune.png>
-Package pdftex.def Info: figures/KNN_hyper_tune.png  used on input line 166.
-(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
+Package pdftex.def Info: figures/KNN_hyper_tune.png  used on input line 161.
+(pdftex.def)             Requested size: 237.13594pt x 158.09023pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./figures/special_char.png> <./figures/special_char_removed.png> <./figure
-s/stop_words.png> <./figures/stop_words_removed.png> <./figures/stem.png> <./fi
-gures/after_stem.png> <./figures/vectorization.png> <./figures/vec_result.png>]
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-[]\OT1/ptm/m/n/10 There are two hy-per-pa-ram-e-ters we tune in
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\OT1/ptm/m/n/10 There are two hy-per-pa-ram-e-ters we tune in
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 \OT1/pcr/m/n/10 DecisionTreeClassifier\OT1/ptm/m/n/10 : max-i-mal depth of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-[]\OT1/ptm/m/n/10 For lo-gis-tic re-gres-sion, we use the class
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+\OT1/ptm/m/n/10 For lo-gis-tic re-gres-sion, we use the class
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 173--174
+Underfull \hbox (badness 6542) in paragraph at lines 169--170
 \OT1/pcr/m/n/10 LogisticRegression \OT1/ptm/m/n/10 from scikit-learn. When
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 173--174
+Underfull \hbox (badness 1072) in paragraph at lines 169--170
+\OT1/ptm/m/n/10 pa-ram-e-ter c from 0.001 to 100 with a step fac-tor of
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 169--170
+\OT1/ptm/m/n/10 When bag-ging is ap-plied, we in-herit the hy-per-pa-ram-
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 169--170
 \OT1/ptm/m/n/10 e-ter c=0.1 from the case with-out bag-ging, and use
  []
 
-
-Overfull \hbox (9.25737pt too wide) in paragraph at lines 177--200
-[][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<figures/ROC_SVM.png, id=45, 433.62pt x 289.08pt>
+[4 <./figures/stem.png> <./figures/after_stem.png> <./figures/vectorization.png
+> <./figures/vec_result.png> <./figures/KNN_hyper_tune.png>]
+<figures/ROC_SVM.png, id=96, 433.62pt x 289.08pt>
 File: figures/ROC_SVM.png Graphic file (type png)
 <use figures/ROC_SVM.png>
-Package pdftex.def Info: figures/ROC_SVM.png  used on input line 205.
-(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
-<figures/McNemar_SVM.png, id=46, 433.62pt x 289.08pt>
-File: figures/McNemar_SVM.png Graphic file (type png)
-<use figures/McNemar_SVM.png>
-Package pdftex.def Info: figures/McNemar_SVM.png  used on input line 211.
-(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
- [5 <./figures/KNN_hyper_tune.png> <./figures/ROC_SVM.png>]
-<figures/ROC_RF_DT.png, id=52, 498.86375pt x 388.45125pt>
-File: figures/ROC_RF_DT.png Graphic file (type png)
-<use figures/ROC_RF_DT.png>
-Package pdftex.def Info: figures/ROC_RF_DT.png  used on input line 219.
-(pdftex.def)             Requested size: 227.37749pt x 177.04788pt.
+Package pdftex.def Info: figures/ROC_SVM.png  used on input line 201.
+(pdftex.def)             Requested size: 237.13594pt x 158.09023pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./figures/McNemar_SVM.png> <./figures/ROC_RF_DT.png>]
-<figures/Logistic_bagging.png, id=58, 433.62pt x 289.08pt>
+<figures/McNemar_SVM.png, id=98, 433.62pt x 289.08pt>
+File: figures/McNemar_SVM.png Graphic file (type png)
+<use figures/McNemar_SVM.png>
+Package pdftex.def Info: figures/McNemar_SVM.png  used on input line 207.
+(pdftex.def)             Requested size: 237.13594pt x 158.09023pt.
+ [5 <./figures/ROC_SVM.png> <./figures/McNemar_SVM.png>]
+<figures/ROC_RF_DT.png, id=112, 498.86375pt x 388.45125pt>
+File: figures/ROC_RF_DT.png Graphic file (type png)
+<use figures/ROC_RF_DT.png>
+Package pdftex.def Info: figures/ROC_RF_DT.png  used on input line 215.
+(pdftex.def)             Requested size: 237.13594pt x 184.64665pt.
+<figures/Logistic_bagging.png, id=113, 433.62pt x 289.08pt>
 File: figures/Logistic_bagging.png Graphic file (type png)
 <use figures/Logistic_bagging.png>
-Package pdftex.def Info: figures/Logistic_bagging.png  used on input line 231.
-(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
-<figures/ROCComparsion.png, id=59, 433.62pt x 289.08pt>
+Package pdftex.def Info: figures/Logistic_bagging.png  used on input line 223.
+(pdftex.def)             Requested size: 237.13594pt x 158.09023pt.
+<figures/ROCComparsion.png, id=114, 433.62pt x 289.08pt>
 File: figures/ROCComparsion.png Graphic file (type png)
 <use figures/ROCComparsion.png>
-Package pdftex.def Info: figures/ROCComparsion.png  used on input line 237.
-(pdftex.def)             Requested size: 227.37749pt x 151.584pt.
+Package pdftex.def Info: figures/ROCComparsion.png  used on input line 229.
+(pdftex.def)             Requested size: 237.13594pt x 158.09023pt.
+ [6 <./figures/ROC_RF_DT.png> <./figures/Logistic_bagging.png> <./figures/ROCCo
+mparsion.png>] (document.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
 
-Underfull \vbox (badness 1910) has occurred while \output is active []
-
- [7 <./figures/Logistic_bagging.png> <./figures/ROCComparsion.png>] (document.b
-bl) [8
-
-]
-(document.aux) ) 
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+ (document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+ ) 
 Here is how much of TeX's memory you used:
- 4657 strings out of 492448
- 72271 string characters out of 3120446
- 148557 words of memory out of 3000000
- 8940 multiletter control sequences out of 15000+200000
- 34565 words of font info for 86 fonts, out of 3000000 for 9000
+ 9423 strings out of 492448
+ 145878 string characters out of 3120446
+ 242820 words of memory out of 3000000
+ 13521 multiletter control sequences out of 15000+200000
+ 34737 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,10n,48p,802b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
-s/base/8r.enc}<D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cmextra/cmbsy5.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb><D:/Users/asus/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Users/asus/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Use
-rs/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.
-pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmib10.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cmextra/cmmib7.pfb><D:/Users/asus/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/asus/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/asu
-s/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/cour
-ier/ucrr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmb8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/times/utmr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (8 pages, 345395 bytes).
+ 50i,11n,48p,814b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+extra/cmbsy5.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cmextra/cmbsy7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Users/asus/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Users/asus/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Users/
+asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmib10.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cmextra/cmmib7.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/asus/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/asus/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Users/asus/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/
+Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb
+><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr
+8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/u
+tmb8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/time
+s/utmr8a.pfb><D:/Users/asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on document.pdf (7 pages, 355976 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
